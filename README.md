@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Thomas Kabalin
 
-🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**  
-💡 Passionate about **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving**  
+🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**
+
+💻 Passionate about software development, AI, and solving real-world problems
+
 🏅 Vice-Chancellor’s Scholarship recipient | Class Medallist | Dean’s Merit List  
 
 ---
@@ -9,6 +11,8 @@
 ### 🚀 About Me
 
 I'm a second-year Business Science student specialising in **Computer Science**. I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
+
+My professional interests include **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving.** 
 
 ---
 
@@ -70,4 +74,4 @@ When I’m not coding, studying, or catching up on lost sleep, I enjoy:
 - 💼 LinkedIn: [linkedin.com/in/thomaskabalin](https://linkedin.com/in/thomaskabalin)  
 - 📍 Based in **Cape Town, South Africa**
 
-*Disclaimer: ChatGPT helped write this README… because I’m passionate about AI and efficiency*
+*Disclaimer: ChatGPT helped write this README… because I’m passionate about AI and efficiency!*
