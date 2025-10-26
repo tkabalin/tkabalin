@@ -2,7 +2,7 @@
 
 🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**
 
-💻 Passionate about software development, AI, and solving real-world problems
+💻 Passionate about data science, AI, and solving real-world problems
 
 🏅 Vice-Chancellor’s Scholarship recipient | Class Medallist | Dean’s Merit List  
 
