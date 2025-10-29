@@ -18,7 +18,7 @@ My professional interests include **software development, data science, practica
 
 ### 🧠 Technical Skills
 
-**Languages:** Java, Python, C#, R, SQL (with some experience in HTML, CSS, MIPS Assembly, and the dreaded Delphi from high school IT)
+**Languages:** Java, Python, C#, R, SQL (with some experience in HTML, CSS, MIPS Assembly, and Delphi)
 
 **Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware  
 
@@ -59,7 +59,7 @@ My professional interests include **software development, data science, practica
 
 ### 🌱 Personal Interests
 
-When I’m not coding, studying, or catching up on lost sleep, I enjoy:  
+When I’m not coding, studying, or catching up on sleep, I enjoy:  
 - Overnight hiking 🥾
 - Running (especially out on the trails) 🏃‍♂️
 - Mountain biking 🚵‍♂️
@@ -72,6 +72,5 @@ When I’m not coding, studying, or catching up on lost sleep, I enjoy:
 
 - 📧 Email: [thomas@kabalin.com](mailto:thomas@kabalin.com)  
 - 💼 LinkedIn: [linkedin.com/in/thomaskabalin](https://linkedin.com/in/thomaskabalin)  
+- 💻 Website (WIP): [thomaskabalin.com](https://thomaskabalin.com/)
 - 📍 Based in **Cape Town, South Africa**
-
-*Disclaimer: ChatGPT helped write this README… because I’m passionate about AI and efficiency!*
