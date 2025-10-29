@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Thomas Kabalin
+<h1>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+  </picture>
+  Hi, I'm Thomas Kabalin
+</h1>
 
 🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**
 
@@ -6,17 +12,15 @@
 
 🏅 Vice-Chancellor’s Scholarship recipient | Class Medallist | Dean’s Merit List  
 
----
 
-### 🚀 About Me
+## 🚀 About Me
 
 I'm a second-year Business Science student specialising in **Computer Science**. I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
 
 My professional interests include **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving.** 
 
----
 
-### 🧠 Technical Skills
+## 🧠 Technical Skills
 
 **Languages:** Java, Python, C#, R, SQL (with some experience in HTML, CSS, MIPS Assembly, and Delphi)
 
@@ -30,9 +34,8 @@ My professional interests include **software development, data science, practica
 
 **Other Strengths:** Leadership, project management, organisation, and entrepreneurship
 
----
 
-### 🎯 Achievements
+## 🎯 Achievements
 
 **University Awards:**  
 - 🏆 Vice-Chancellor’s Scholarship, UCT (Top 10 applicants from Western Cape, 2024)  
@@ -46,18 +49,16 @@ My professional interests include **software development, data science, practica
 - 🥈 Silver Medal, National Applications Olympiad (2022, IITPSA)  
 - 🏅 WCED Excellent Academic Achievement (Top 40 in the province)
 
----
 
-### 🧩 Leadership & Involvement
+## 🧩 Leadership & Involvement
 
 - 👨‍💻 **Member**, IITPSA Programming Olympiad Scientific Committee (2024–Present)  
 - 🎓 **Prefect**, Cannons Creek High School (2023)
 - 🎧 **Head**, Sound, Lighting & AV Team (2021–2022)  
 - 💡 **Chairperson**, School Photographic Society (2021–2022)  
 
----
 
-### 🌱 Personal Interests
+## 🌱 Personal Interests
 
 When I’m not coding, studying, or catching up on sleep, I enjoy:  
 - Overnight hiking 🥾
@@ -66,9 +67,8 @@ When I’m not coding, studying, or catching up on sleep, I enjoy:
 - Photography 📷
 - SCUBA diving 🤿
 
----
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 - 📧 Email: [thomas@kabalin.com](mailto:thomas@kabalin.com)  
 - 💼 LinkedIn: [linkedin.com/in/thomaskabalin](https://linkedin.com/in/thomaskabalin)  
