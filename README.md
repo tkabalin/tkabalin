@@ -8,29 +8,29 @@
 
 🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**
 
-💻 Passionate about data science, AI, and solving real-world problems
+💻 Passionate about software development, data science, AI, and solving real-world problems
 
-🏅 Vice-Chancellor’s Scholarship recipient | Class Medallist | Dean’s Merit List  
+🏅 Vice-Chancellor’s Scholarship recipient | Multi-time Class Medallist | Dean’s Merit List  
 
 
 ## 🚀 About Me
 
-I'm a second-year Business Science student specialising in **Computer Science**. I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
+I'm a third-year Business Science student specialising in **Computer Science**. I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
 
 My professional interests include **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving.** 
 
 
 ## 🧠 Technical Skills
 
-**Languages:** Java, Python, C#, R, SQL (with some experience in HTML, CSS, MIPS Assembly, and Delphi)
+**Languages:** Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
 
 **Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware  
 
-**IDE & Productivity Tools:** VSCode, IntelliJ, Visual Studio, RStudio, Microsoft Office Suite (Excel, Word, PowerPoint, Access)  
+**IDE & Productivity Tools:** IntelliJ, PHPStorm, WebStorm, VSCode, Visual Studio, RStudio  
 
-**Version Control & Collaboration:** Git, GitHub
+**Version Control & Collaboration:** Git, GitHub, Slack, Linear
 
-**Computer Science Fundamentals:** Basic algorithms, data structures, OOP principles, software testing, debugging, and version control best practices  
+**Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
 
 **Other Strengths:** Leadership, project management, organisation, and entrepreneurship
 
@@ -38,10 +38,12 @@ My professional interests include **software development, data science, practica
 ## 🎯 Achievements
 
 **University Awards:**  
-- 🏆 Vice-Chancellor’s Scholarship, UCT (Top 10 applicants from Western Cape, 2024)  
-- 🥇 Top Student in CSC1016 – Object Oriented Programming  
+- 🏆 Vice-Chancellor’s Scholarship, UCT (Top 10 applicants from Western Cape, 2024)
+- 🥇 Top Student in CSC1015 – Introduction to Programming (Certificate of Merit, Top 10%)  
+- 🥇 Top Student in CSC1016 – Object-Oriented Programming  
 - 🥉 3rd Place in 1st Year Business Science, Bain & Company Award  
-- 🧾 Dean’s Merit List, UCT 2024  
+- 🥇 Top Student in CSC2002 – Second Year Computer Science  
+- 🥇 Top Student in STA2020 – Applied Statistics  
 
 **High School Awards:**  
 - 🎓 Dux of Cannons Creek High School, 2023 (Aggregate 96.3%)  
@@ -52,7 +54,10 @@ My professional interests include **software development, data science, practica
 
 ## 🧩 Leadership & Involvement
 
-- 👨‍💻 **Member**, IITPSA Programming Olympiad Scientific Committee (2024–Present)  
+- 📝 **External Moderator**, South African Applications Olympiad (2026–Present)  
+- 👨‍💻 **Scientific Committee Member**, South African Programming Olympiad (2024–Present)  
+- 🤿 **Member**, UCT Underwater Club (2025–Present)  
+- 🏔️ **Member**, UCT Mountain and Ski Club (2025–Present)  
 - 🎓 **Prefect**, Cannons Creek High School (2023)
 - 🎧 **Head**, Sound, Lighting & AV Team (2021–2022)  
 - 💡 **Chairperson**, School Photographic Society (2021–2022)  
@@ -60,17 +65,16 @@ My professional interests include **software development, data science, practica
 
 ## 🌱 Personal Interests
 
-When I’m not coding, studying, or catching up on sleep, I enjoy:  
-- Overnight hiking 🥾
-- Running (especially out on the trails) 🏃‍♂️
-- Mountain biking 🚵‍♂️
-- Photography 📷
+When I’m not coding or studying, I enjoy:  
+- Backpacking 🥾
+- Trail Running 🏃‍♂️
 - SCUBA diving 🤿
+- Photography 📷
 
 
 ## 📫 Connect with Me
 
-- 📧 Email: [thomas@kabalin.com](mailto:thomas@kabalin.com)  
+- 📧 Email: [contact@thomaskabalin.com](mailto:contact@thomaskabalin.com)  
 - 💼 LinkedIn: [linkedin.com/in/thomaskabalin](https://linkedin.com/in/thomaskabalin)  
-- 💻 Website (WIP): [thomaskabalin.com](https://thomaskabalin.com/)
+- 💻 Website: [thomaskabalin.com](https://thomaskabalin.com/)
 - 📍 Based in **Cape Town, South Africa**
