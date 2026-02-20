@@ -6,9 +6,7 @@
   Hi, I'm Thomas Kabalin
 </h1>
 
-🎓 **Business Science (Computer Science)** student at the **University of Cape Town (UCT)**
-
-💻 Passionate about software development, data science, AI, and solving real-world problems
+🎓 **Bachelor of Business Science specialising in Computer Science** student at the **University of Cape Town (UCT)**
 
 🏅 Vice-Chancellor’s Scholarship recipient | Multi-time Class Medallist | Dean’s Merit List  
 
@@ -22,17 +20,31 @@ My professional interests include **software development, data science, practica
 
 ## 🧠 Technical Skills
 
+**Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
+
 **Languages:** Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
+  </a>
 
 **Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware  
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />
+</a>
+
 **IDE & Productivity Tools:** IntelliJ, PHPStorm, WebStorm, VSCode, Visual Studio, RStudio  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,vscode,visualstudio" />
+</a>
 
 **Version Control & Collaboration:** Git, GitHub, Slack, Linear
 
-**Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
-
-**Other Strengths:** Leadership, project management, organisation, and entrepreneurship
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</a>
 
 
 ## 🎯 Achievements
