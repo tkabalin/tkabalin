@@ -28,16 +28,16 @@ My professional interests include **software development, data science, practica
     <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
   </a>
 
-**Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware  
+**Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware Workstation 
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />
 </a>
 
-**IDE & Productivity Tools:** IntelliJ, PHPStorm, WebStorm, VSCode, Visual Studio, RStudio  
+**IDE & Productivity Tools:** JetBrains IDEs (IntelliJ, PHPStorm, WebStorm, PyCharm, DataGrip), VSCode, Visual Studio, RStudio  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,pycharm,vscode,visualstudio" />
 </a>
 
 **Version Control & Collaboration:** Git, GitHub, Slack, Linear
