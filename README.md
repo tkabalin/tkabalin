@@ -6,14 +6,11 @@
   Hi, I'm Thomas Kabalin
 </h1>
 
-🎓 **Bachelor of Business Science specialising in Computer Science** student at the **University of Cape Town (UCT)**
-
-🏅 Vice-Chancellor’s Scholarship recipient | Multi-time Class Medallist | Dean’s Merit List  
-
+#### Top Computer Science Student at UCT | Business & CS | Solving Real-World Problems with IT
 
 ## 🚀 About Me
 
-I'm a third-year Business Science student specialising in **Computer Science**. I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
+I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT). I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
 
 My professional interests include **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving.** 
 
@@ -22,13 +19,13 @@ My professional interests include **software development, data science, practica
 
 **Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
 
-**Languages:** Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
+**Languages:** Proficient in Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
   </a>
 
-**Operating Systems & Environments:** Windows, Linux (Ubuntu), Unix command line, WSL, VMware Workstation 
+**Operating Systems & Environments:** Windows, Linux (Ubuntu, Arch), WSL, VMware Workstation 
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />
@@ -49,20 +46,12 @@ My professional interests include **software development, data science, practica
 
 ## 🎯 Achievements
 
-**University Awards:**  
-- 🏆 Vice-Chancellor’s Scholarship, UCT (Top 10 applicants from Western Cape, 2024)
-- 🥇 Top Student in CSC1015 – Introduction to Programming (Certificate of Merit, Top 10%)  
-- 🥇 Top Student in CSC1016 – Object-Oriented Programming  
-- 🥉 3rd Place in 1st Year Business Science, Bain & Company Award  
-- 🥇 Top Student in CSC2002 – Second Year Computer Science  
-- 🥇 Top Student in STA2020 – Applied Statistics  
-
-**High School Awards:**  
-- 🎓 Dux of Cannons Creek High School, 2023 (Aggregate 96.3%)  
-- 👨‍🏫 Principal's Honour Award  
-- 🥈 Silver Medal, National Applications Olympiad (2022, IITPSA)  
-- 🏅 WCED Excellent Academic Achievement (Top 40 in the province)
-
+You can read more about my achievements on my LinkedIn, but some notable ones include:
+- 🏆 UCT Vice-Chancellor’s Scholarship, UCT – Top 10 applicants from Western Cape, 2024)
+- 🥉 Bain & Company Award – 3rd Place in First-Year Bachelor of Business Science
+- 🏆 BSG Price – Best 2nd-Year Computer Science Student
+- 🥇 Class Award for Top Student in CSC1016, CSC2002 & STA2020
+- 🥈 Silver Medal at the South African Computer Applications Olympiad  
 
 ## 🧩 Leadership & Involvement
 
@@ -74,15 +63,12 @@ My professional interests include **software development, data science, practica
 - 🎧 **Head**, Sound, Lighting & AV Team (2021–2022)  
 - 💡 **Chairperson**, School Photographic Society (2021–2022)  
 
-
 ## 🌱 Personal Interests
 
 When I’m not coding or studying, I enjoy:  
 - Backpacking 🥾
 - Trail Running 🏃‍♂️
 - SCUBA diving 🤿
-- Photography 📷
-
 
 ## 📫 Connect with Me
 
