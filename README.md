@@ -19,13 +19,15 @@ My professional interests include **software development, data science, practica
 
 **Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
 
+**AI Tools & Workflows**: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic workflow design
+
 **Languages:** Proficient in Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
   </a>
 
-**Operating Systems & Environments:** Windows, Linux (Ubuntu, Arch), WSL, VMware Workstation 
+**Operating Systems & Environments:** Windows, Linux (Ubuntu Desktop, Ubuntu Server, Omarchy), WSL, VMware Workstation 
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />
@@ -50,7 +52,7 @@ You can read more about my achievements on my LinkedIn, but some notable ones in
 - 🏆 UCT Vice-Chancellor’s Scholarship, UCT – Top 10 applicants from Western Cape, 2024)
 - 🥉 Bain & Company Award – 3rd Place in First-Year Bachelor of Business Science
 - 🏆 BSG Price – Best 2nd-Year Computer Science Student
-- 🥇 Class Award for Top Student in CSC1016, CSC2002 & STA2020
+- 🥇 Class Award for Top Student in CSC1016, CSC2002, and STA2020
 - 🥈 Silver Medal at the South African Computer Applications Olympiad  
 
 ## 🧩 Leadership & Involvement
