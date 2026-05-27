@@ -19,9 +19,9 @@ My professional interests include **software development, data science, practica
 
 **Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
 
-**AI Tools & Workflows**: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic workflow design
+**AI Tools & Workflows**: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic AI development 
 
-**Languages:** Proficient in Java, Python, C#, PHP, SQL (with some experience in HTML, CSS, R, MIPS Assembly, and Delphi)
+**Languages:** Proficient in Java, Python, C#, and PHP, (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
