@@ -23,15 +23,15 @@ My professional interests include **software development, data science, practica
 
 <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Claude-Dark.svg" width="48" height="48" alt="Claude" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ClaudeCode-Dark.svg" width="48" height="48" alt="Claude Code" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ChatGPT-Dark.svg" width="48" height="48" alt="ChatGPT" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/GitHubCopilot-Dark.svg" width="48" height="48" alt="GitHub Copilot" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/MCP-Dark.svg" width="48" height="48" alt="MCP" />
 
-**Languages:** Proficient in Java, Python, C#, and PHP (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
+**Languages:** Proficient in Java, Python, C#, and PHP / Laravel (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r" />
 
 **Operating Systems & Environments:** Windows, Linux (Ubuntu Desktop, Ubuntu Server, Omarchy), WSL, VMware Workstation
 
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Omarchy-Dark.svg" width="48" height="48" alt="Omarchy" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/WSL-Dark.svg" width="48" height="48" alt="WSL" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/VMware-Dark.svg" width="48" height="48" alt="VMware Workstation" />
+<img src="https://skillicons.dev/icons?i=windows,powershell,linux,ubuntu" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Omarchy-Dark.svg" width="48" height="48" alt="Omarchy" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/WSL-Dark.svg" width="48" height="48" alt="WSL" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/VMware-Dark.svg" width="48" height="48" alt="VMware Workstation" />
 
-**IDE & Productivity Tools:** JetBrains IDEs (IntelliJ, PHPStorm, WebStorm, PyCharm, DataGrip), VSCode, Visual Studio, RStudio
+**IDE & Productivity Tools:** JetBrains IDEs (IntelliJ, PHPStorm, WebStorm, PyCharm), VSCode, Visual Studio, RStudio
 
 <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,pycharm,vscode,visualstudio" />
 
