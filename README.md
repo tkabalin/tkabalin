@@ -19,34 +19,37 @@ My professional interests include **software development, data science, practica
 
 **Computer Science Fundamentals:** Algorithms, data structures, OOP principles, parallel and concurrent programming, software testing, debugging, and version control best practices  
 
-**AI Tools & Workflows**: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic AI development 
+AI Tools & Workflows: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic AI development
 
-<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Claude-Dark.svg" width="48" height="48" alt="Claude" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ClaudeCode-Dark.svg" width="48" height="48" alt="Claude Code" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ChatGPT-Dark.svg" width="48" height="48" alt="ChatGPT" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/GitHubCopilot-Dark.svg" width="48" height="48" alt="GitHub Copilot" />
+<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Claude-Dark.svg" width="48" height="48" alt="Claude" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ClaudeCode-Dark.svg" width="48" height="48" alt="Claude Code" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ChatGPT-Dark.svg" width="48" height="48" alt="ChatGPT" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/GitHubCopilot-Dark.svg" width="48" height="48" alt="GitHub Copilot" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/MCP-Dark.svg" width="48" height="48" alt="MCP" />
 
-**Languages:** Proficient in Java, Python, C#, and PHP, (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
+Languages: Proficient in Java, Python, C#, and PHP, (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cs,php,laravel,mysql,postgres,html,css,r,sklearn" />
   </a>
 
-**Operating Systems & Environments:** Windows, Linux (Ubuntu Desktop, Ubuntu Server, Omarchy), WSL, VMware Workstation 
+Operating Systems & Environments: Windows, Linux (Ubuntu Desktop, Ubuntu Server, Omarchy), WSL, VMware Workstation
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell" />
-</a>
+</a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Omarchy-Dark.svg" width="48" height="48" alt="Omarchy" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/WSL-Dark.svg" width="48" height="48" alt="WSL" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/VMware-Dark.svg" width="48" height="48" alt="VMware Workstation" />
 
-**IDE & Productivity Tools:** JetBrains IDEs (IntelliJ, PHPStorm, WebStorm, PyCharm, DataGrip), VSCode, Visual Studio, RStudio  
+IDE & Productivity Tools: JetBrains IDEs (IntelliJ, PHPStorm, WebStorm, PyCharm, DataGrip), VSCode, Visual Studio, RStudio
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,pycharm,vscode,visualstudio" />
 </a>
 
-**Version Control & Collaboration:** Git, GitHub, Slack, Linear
+Version Control & Collaboration: Git, GitHub, Slack, Linear
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github" />
-</a>
+</a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Slack-Dark.svg" width="48" height="48" alt="Slack" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Linear-Dark.svg" width="48" height="48" alt="Linear" />
 
+Homelab & Infrastructure: Docker, Cloudflare, Tailscale, Grafana, Prometheus, Backblaze, n8n
+
+<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Docker-Dark.svg" width="48" height="48" alt="Docker" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Cloudflare-Dark.svg" width="48" height="48" alt="Cloudflare" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Tailscale-Dark.svg" width="48" height="48" alt="Tailscale" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Prometheus-Dark.svg" width="48" height="48" alt="Prometheus" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Backblaze-Dark.svg" width="48" height="48" alt="Backblaze" />  <img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/n8n-Dark.svg" width="48" height="48" alt="n8n" />
 
 ## 🎯 Achievements
 
