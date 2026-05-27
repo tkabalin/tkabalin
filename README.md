@@ -21,10 +21,7 @@ My professional interests include **software development, data science, practica
 
 **AI Tools & Workflows**: Claude (Claude.ai, Claude Code), ChatGPT, GitHub Copilot, MCP integrations, prompt engineering, agentic AI development 
 
-<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Claude-Dark.svg" width="48" height="48" alt="Claude" />
-<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ClaudeCode-Dark.svg" width="48" height="48" alt="Claude Code" />
-<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ChatGPT-Dark.svg" width="48" height="48" alt="ChatGPT" />
-<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/GitHubCopilot-Dark.svg" width="48" height="48" alt="GitHub Copilot" />
+<img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/Claude-Dark.svg" width="48" height="48" alt="Claude" /><img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ClaudeCode-Dark.svg" width="48" height="48" alt="Claude Code" /><img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/ChatGPT-Dark.svg" width="48" height="48" alt="ChatGPT" /><img src="https://raw.githubusercontent.com/tkabalin/tkabalin/refs/heads/main/custom-icons/GitHubCopilot-Dark.svg" width="48" height="48" alt="GitHub Copilot" />
 
 **Languages:** Proficient in Java, Python, C#, and PHP, (with some experience in SQL, HTML, CSS, R, MIPS Assembly, and Delphi)
 
