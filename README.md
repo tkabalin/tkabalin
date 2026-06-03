@@ -6,14 +6,13 @@
   Hi, I'm Thomas Kabalin
 </h1>
 
-#### Top Computer Science Student at UCT | Business & CS | Solving Real-World Problems with IT
+**UCT’s Top CS Student · Technology & Business · AI-Driven Development**
 
 ## 🚀 About Me
 
-I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT). I’m passionate about building efficient, real-world solutions that bridge the gap between **business and technology**.  
+I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT) and ranked first in my cohort. I am also a backend engineer at a Cape Town fintech, working at the intersection of technology and business. 
 
-My professional interests include **software development, data science, practical applications of AI, business innovation,** and **technology-driven problem solving.** 
-
+My professional interests include software development, data science, practical applications of AI, business innovation, and technology-driven problem solving. 
 
 ## 🧠 Technical Skills
 
@@ -46,21 +45,19 @@ My professional interests include **software development, data science, practica
 ## 🎯 Achievements
 
 You can read more about my achievements on my LinkedIn, but some notable ones include:
-- 🏆 UCT Vice-Chancellor’s Scholarship, UCT – Top 10 applicants from Western Cape, 2024)
+- 🏆 UCT Vice-Chancellor’s Scholarship, UCT – Top 10 applicants from Western Cape
 - 🥉 Bain & Company Award – 3rd Place in First-Year Bachelor of Business Science
 - 🏆 BSG Price – Best 2nd-Year Computer Science Student
-- 🥇 Class Award for Top Student in CSC1016, CSC2002, and STA2020
-- 🥈 Silver Medal at the South African Computer Applications Olympiad  
+- 🥇 Class Medals, ranked 1st in cohort: CSC1016S (Object-Oriented Programming, ~800 students), STA2020F (Applied Statistics, ~520 students), CSC2002S (Computer Science 2B, ~430 students) 
+- 🥈 Silver Medal at the South African Computer Applications Olympiad (top 3 out of ~18,300 students)
 
 ## 🧩 Leadership & Involvement
 
-- 📝 **External Moderator**, South African Applications Olympiad (2026–Present)  
+- 📝 **External Moderator**, South African Applications Olympiad and Talent Search (2026–Present)  
 - 👨‍💻 **Scientific Committee Member**, South African Programming Olympiad (2024–Present)  
-- 🤿 **Member**, UCT Underwater Club (2025–Present)  
-- 🏔️ **Member**, UCT Mountain and Ski Club (2025–Present)  
 - 🎓 **Prefect**, Cannons Creek High School (2023)
 - 🎧 **Head**, Sound, Lighting & AV Team (2021–2022)  
-- 💡 **Chairperson**, School Photographic Society (2021–2022)  
+- 📷 **Chairperson**, School Photographic Society (2021–2022)  
 
 ## 🌱 Personal Interests
 
