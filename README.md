@@ -6,8 +6,6 @@
   Hi, I'm Thomas Kabalin
 </h1>
 
-**UCT’s Top CS Student · Technology & Business · AI-Driven Development**
-
 ## 🚀 About Me
 
 I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT) and ranked first in my cohort. I am also a backend engineer at a Cape Town fintech, working at the intersection of technology and business. 
