@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT) and ranked first in my cohort. I am also a backend engineer at a Cape Town fintech, working at the intersection of technology and business. 
+I'm a third-year Business Science student specialising in **Computer Science** at the University of Cape Town (UCT) and ranked first in my cohort. I am also a software engineer at a Cape Town fintech, working at the intersection of technology and business. 
 
 My professional interests include software development, data science, practical applications of AI, business innovation, and technology-driven problem solving. 
 
@@ -49,13 +49,10 @@ You can read more about my achievements on my LinkedIn, but some notable ones in
 - 🥇 Class Medals, ranked 1st in cohort: CSC1016S (Object-Oriented Programming, ~800 students), STA2020F (Applied Statistics, ~520 students), CSC2002S (Computer Science 2B, ~430 students) 
 - 🥈 Silver Medal at the South African Computer Applications Olympiad (top 3 out of ~18,300 students)
 
-## 🧩 Leadership & Involvement
+## 🧩 Community Involvement
 
 - 📝 **External Moderator**, South African Applications Olympiad and Talent Search (2026–Present)  
 - 👨‍💻 **Scientific Committee Member**, South African Programming Olympiad (2024–Present)  
-- 🎓 **Prefect**, Cannons Creek High School (2023)
-- 🎧 **Head**, Sound, Lighting & AV Team (2021–2022)  
-- 📷 **Chairperson**, School Photographic Society (2021–2022)  
 
 ## 🌱 Personal Interests
 
